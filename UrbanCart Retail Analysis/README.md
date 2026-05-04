@@ -166,19 +166,4 @@ jupyter notebook SQL_ANAlysis.ipynb
 
 ---
 
-## 👤 Author
-
-**Your Name**  
-Aspiring Data Analyst  
-📧 your@email.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/your-username)
-
----
-
-## 📄 License
-
-This project is for educational purposes as part of a Data Analytics assignment.
-
----
-
 > *"Without data, you're just another person with an opinion."* — W. Edwards Deming
